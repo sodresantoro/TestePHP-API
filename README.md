@@ -8,7 +8,7 @@ O teste consiste em fazer um CRUD de produtos, deve ser feito com uma API em PHP
 - 2º - Criar uma tela para listar e executar as ações (de preferência VUEJS).
 
 OBS:
-- Deve ser feito em PHP puro ou framework Laravel;
+- Deve ser feito em Laravel;
 - O banco de dados deve ser mysql;
 - O projeto deve conter uma pasta chamada "mysql" e lá colocar o "create table" das tabelas usadas;
 - Iremos avaliar o Frontend e Backend;
@@ -20,5 +20,5 @@ OBS:
 
 ## Diferenciais
 - Seguir as PSR's;
-- Utilizar composer;
 - Teste unitário;
+- REST
