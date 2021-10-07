@@ -2,7 +2,7 @@
 
 ## O que deve ser feito
 
-O teste consiste em fazer um CRUD de produtos, deve ser feito com uma API em PHP.
+O teste consiste em fazer uma API e uma interface onde o usuário possa criar categorias e produtos.
 
 - 1º - CRUD de categoria "categories" -> (id, name, created, updated);
 - 2º - CRUD de produto vinculando uma categoria "products" -> (id, category_id, name, created, updated);
