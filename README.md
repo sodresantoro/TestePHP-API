@@ -4,8 +4,9 @@
 
 O teste consiste em fazer um CRUD de produtos, deve ser feito com uma API em PHP.
 
-- 1º - CRUD de produto "products" -> (id, name, value, created, updated);
-- 2º - Criar uma tela para listar e executar as ações (de preferência VUEJS).
+- 1º - CRUD de categoria "categories" -> (id, name, created, updated);
+- 2º - CRUD de produto vinculando uma categoria "products" -> (id, category_id, name, created, updated);
+- 3º - Criar uma interface para listar e executar as ações (de preferência VUEJS).
 
 OBS:
 - Deve ser feito em Laravel;
